@@ -1,0 +1,9 @@
+.container {
+    max-width: 600px;
+    max-height: 400px;
+    margin: 0 auto;    
+}
+
+.line-chart {
+    border: 1px solid lightgray;
+}
