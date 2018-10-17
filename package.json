@@ -4,12 +4,12 @@
   "description": "Sandbox environment - anything goes here.",
   "main": "index.js",
   "scripts": {
-    "start": "http-server &",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Steven Kingaby",
   "license": "ISC",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "express": "^4.16.4"
   }
 }
